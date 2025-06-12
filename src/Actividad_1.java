@@ -1,5 +1,5 @@
 
-public class  MostrarSaludo
+public class Actividad_1
     {
         public static  void MostrarSaludo()
         {

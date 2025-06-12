@@ -1,4 +1,4 @@
-public class area {
+public class Actividad_3 {
 
     public static double arearectangulo(double altura, double base)
     {

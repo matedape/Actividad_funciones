@@ -1,8 +1,8 @@
 import java.util.Scanner;
 
-public class saludar {
+public class Actividad_2 {
 
-    public saludar(String Nombre)
+    public Actividad_2(String Nombre)
     {
         System.out.println("Hola "+Nombre);
     }
@@ -12,6 +12,6 @@ public class saludar {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Ingresar un Nombre :");
         Nombre = scanner.nextLine();
-        new saludar(Nombre);
+        new Actividad_2(Nombre);
     }
 }
